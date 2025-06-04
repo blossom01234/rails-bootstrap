@@ -156,7 +156,7 @@ GEM
     marcel (1.0.4)
     matrix (0.4.2)
     mini_mime (1.1.5)
-    minitest (5.18.0)
+    minitest (5.25.5)
     minitest-reporters (1.6.0)
       ansi
       builder
@@ -388,7 +388,7 @@ DEPENDENCIES
   importmap-rails
   jbuilder
   kamal
-  minitest (= 5.18.0)
+  minitest (= 5.25.5)
   minitest-reporters (= 1.6.0)
   propshaft
   puma (>= 5.0)
